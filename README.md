@@ -1,6 +1,5 @@
 # TIanChi_Traffic_Competition
 阿里天池智慧交通预测挑战赛
-# TIanChi_Traffic_Competition-
 
 #@创建于2017-9
 #@Author：lieying
@@ -21,7 +20,5 @@
 
 4、然后运行main.py进行提取和去除噪点。然后送入XGBoost和lightgbm模型进行训练得到四个模型的结果，然后融合处理。
 
-#---------------
-以上是程序大致思路。
 
 
